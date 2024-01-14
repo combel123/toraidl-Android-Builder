@@ -2,10 +2,10 @@
     {
       "kernelSource": {
         "name": "InfiniR",
-        "repo": "https://github.com/toraidl/InfiniR_kernel_umi.git",
+        "repo": "https://github.com/toraidl/InfiniR_kernel_ucmi.git",
         "branch": "14.0-umi",
         "device": "umi",
-        "defconfig": "umi_defconfig"
+        "defconfig": "ucmi_defconfig"
       },
       "toolchains": [
         {
